@@ -2,6 +2,6 @@
 Repositori untuk keperluan Praktikum Algoritma Pemrograman Jurusan Informatika UPNYK
 
 #### Biodata
- Nama	: Imana Abdurrahman
+ Nama	: Iman Abdurrahman
  NIM	: 123200167
  Kelas	: F
